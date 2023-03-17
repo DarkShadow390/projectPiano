@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: black;
+    position: relative;
+    bottom: 40px;
+    /* padding-top: 10px;
+    padding-right: 290px;
+    padding-bottom: 260px; 
+    padding-left: 60px;
+    */
+    border-radius: 50px;
+    background: rgb(196 196 196);
+    padding: 10px 290px 260px 60px;
+    
+}
+
+
+
+
+
+.whiteButton1{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+    border-radius: 0 0 0 10px;
+}
+.whiteButton2{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+}
+.whiteButton3{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+}
+.whiteButton4{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+}
+.whiteButton5{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+}
+.whiteButton6{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-right: none;
+}
+.whiteButton7{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 0 0 10px 0;
+    
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.allWhiteButtons{
+    display: flex;
+    position: absolute;
+    background-color: rgb(196 196 196);
+    
+    border-radius: 100px;
+    
+    
+    
+}
+
+.allBlackButtons{
+    justify-content: center;
+    position: absolute; 
+    
+    
+}
+
+
+.piano{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-top: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+.blackButton1{
+    margin-left: 0px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 14px;
+    padding-right: 14px;
+    color: white;
+    cursor: pointer;
+    border-bottom: 10px solid rgb(29, 28, 28);
+
+}
+.blackButton2{
+    margin-left: 7px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 14px;
+    padding-right: 14px;
+    color: white;
+    cursor: pointer;
+    border-bottom: 10px solid rgb(29, 28, 28);
+    
+}
+.blackButton3{
+    margin-left: 55px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 14px;
+    padding-right: 14px;
+    color: white;
+    cursor: pointer;
+    border-bottom: 10px solid rgb(29, 28, 28);
+    
+}
+.blackButton4{
+    margin-left: 7px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 14px;
+    padding-right: 14px;
+    color: white;
+    cursor: pointer;
+    border-bottom: 10px solid rgb(29, 28, 28);
+    
+
+}
+.blackButton5{
+    margin-left: 7px;
+    background-color: black;
+    padding-top: 150px;
+    padding-left: 14px;
+    padding-right: 14px;
+    color: white;
+    cursor: pointer;
+    border-bottom: 10px solid rgb(29, 28, 28);
+
+    
+}
+
+
